@@ -1,0 +1,19 @@
+{
+  "title": "首页",
+  "home": "主页",
+  "login": "登录",
+  "userName": "用户名",
+  "password": "用户密码",
+  "userNameRequired": "请填写用户名",
+  "passwordRequired": "请填写密码",
+  "noDescription": "无描述信息",
+  "theme": "主题",
+  "language": "语言",
+  "logout": "注销",
+  "logoutTip": "确定注销登录？",
+  "cancel": "取消",
+  "ok": "确定",
+  "auto": "跟随系统",
+  "change_theme": "切换主题",
+  "loginTip": "你还没有登录"
+}

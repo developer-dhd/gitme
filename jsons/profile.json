@@ -1,0 +1,18 @@
+{
+  "@meta": {
+    "comments": {
+      "user": "Github账号信息，结构见\"user.json\"",
+      "token": "登录用户的token(oauth)或密码",
+      "theme": "主题索引",
+      "cache": "缓存策略信息，结构见\"cacheConfig.json\"",
+      "lastLogin": "最近一次的注销登录的用户名",
+      "locale": "APP语言信息"
+    }
+  },
+  "user?": "$user",
+  "token?": "",
+  "theme?": 0,
+  "cache?": "$cacheConfig",
+  "lastLogin?": "",
+  "locale?": ""
+}

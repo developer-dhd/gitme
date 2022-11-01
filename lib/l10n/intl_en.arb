@@ -1,0 +1,19 @@
+{
+  "title": "GitMe",
+  "home": "Home",
+  "login": "Login",
+  "userName": "User Name",
+  "password": "User Password",
+  "userNameRequired": "username is required",
+  "passwordRequired": "password is required",
+  "noDescription": "No description",
+  "theme": "Theme",
+  "language": "Language",
+  "logout": "Logout",
+  "logoutTip": "OK to log out! ",
+  "cancel": "Cancel",
+  "ok": "Ok",
+  "auto": "Auto",
+  "change_theme": "Change Theme",
+  "loginTip": "You are not Logged in"
+}

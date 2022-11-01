@@ -1,0 +1,39 @@
+{
+  "@meta": {
+    "comments": {
+      "login": "用户登录名",
+      "id": "用户ID",
+      "node_id": "节点id",
+      "avatar_url": "用户头像地址",
+      "type": "用户类型，可能是组织",
+      "name": "用户名字",
+      "company": "公司",
+      "blog": "博客地址",
+      "location": "用户所处地理位置",
+      "email": "邮箱",
+      "bio": "用户简介",
+      "public_repos": "公开项目数",
+      "followers": "关注该用户的人数",
+      "following": "该用户关注的人数",
+      "created_at": "账号创建时间",
+      "updated_at": "账号信息更新时间"
+    }
+  },
+  "login": "octocat",
+  "id": 73391925,
+  "node_id": "MDQ6VXNlcjczMzkxOTI1",
+  "avatar_url": "https://github.com/images/error/octocat_happy.gif",
+  "type": "User",
+  "name?": "monalisa octocat",
+  "company?": "GitHub",
+  "blog?": "https://github.com/blog",
+  "location?": "San Francisco",
+  "email?": "octocat@github.com",
+  "hireable?": false,
+  "bio?": "There once was...",
+  "public_repos": 2,
+  "followers": 20,
+  "following": 0,
+  "created_at": "2008-01-14T04:33:35Z",
+  "updated_at": "2008-01-14T04:33:35Z"
+}

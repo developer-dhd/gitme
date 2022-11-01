@@ -1,0 +1,58 @@
+{
+  "@meta": {
+    "comments": {
+      "id": "项目id",
+      "name": "项目名称",
+      "full_name": "项目完整名称",
+      "owner": "项目拥有者简要信息",
+      "private": "是否私有项目",
+      "description": "项目描述",
+      "fork": "该项目是否为fork的项目",
+      "language": "该项目的主要编程语言",
+      "forks_count": "fork了该项目的数量",
+      "stargazers_count": "该项目的star数量",
+      "size": "项目占用的存储大小",
+      "default_branch": "项目的默认分支",
+      "open_issues_count": "该项目当前打开的issue数量",
+      "pushed_at": "项目的默认分支",
+      "created_at": "项目的默认分支",
+      "updated_at": "项目的默认分支",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZW1pdA=="
+      }
+    }
+  },
+  "id": 1296269,
+  "name": "Hello-World",
+  "full_name": "octocat/Hello-World",
+  "owner": {
+    "login": "developer-dhd",
+    "id": 73391925,
+    "node_id": "MDQ6VXNlcjczMzkxOTI1",
+    "avatar_url": "https://avatars.githubusercontent.com/u/73391925?v=4",
+    "type": "User"
+  },
+  "private": false,
+  "description?": "This your first repo!",
+  "fork": false,
+  "language?": "JavaScript",
+  "forks_count": 9,
+  "stargazers_count": 80,
+  "size": 108,
+  "default_branch": "master",
+  "open_issues_count": 2,
+  "pushed_at": "2011-01-26T19:06:43Z",
+  "created_at": "2011-01-26T19:01:12Z",
+  "updated_at": "2011-01-26T19:14:43Z",
+  "license?": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZW1pdA=="
+  }
+}
