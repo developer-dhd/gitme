@@ -21,4 +21,6 @@ Release中提供一个打包好的版本，仅供测试参考！！！
 ## 应用截图
 
 ![Demo照片02](https://bucket.decoderx.cc/blog-image/FlutterBuildApk/Demo照片02.jpg)
+
+
 ![Demo照片01](https://bucket.decoderx.cc/blog-image/FlutterBuildApk/Demo照片01.jpg)
