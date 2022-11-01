@@ -17,3 +17,8 @@ github客户端app, 本app仅供学习Flutter使用，代码来自于 [《Flutte
 ## 下载
 
 Release中提供一个打包好的版本，仅供测试参考！！！
+
+## 应用截图
+
+<img src="https://bucket.decoderx.cc/blog-image/FlutterBuildApk/Demo照片01.jpg" alt="Demo照片01" style="zoom:50%;" /> <img src="https://bucket.decoderx.cc/blog-image/FlutterBuildApk/Demo照片02.jpg" alt="Demo照片01" style="zoom:50%;" />
+
